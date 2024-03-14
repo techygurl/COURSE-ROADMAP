@@ -1,0 +1,353 @@
+---
+title: "GITHUB FOR STUDENT SUCCESS COURSE"
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    toc-location: left
+    code-copy: true
+    code-line-numbers: true
+    code-block-border-left: "#A9A9A9"
+    code-block-bg: true
+    code-bloc-bg-alpha: -.2
+    page-layout: full
+    grid:
+      sidebar-width: 200px
+      body-width: 1030px
+      margin-width: 70px
+---
+
+# Unit 1 - Github Foundations
+
+**For this unit, students will be using GitHub.com and the course website. Students will not be in VSCode yet, that comes in unit two.**
+
+## ✅ Lesson 1: Creating a GitHub account (Introduction to GitHub, Course Overview)
+
+![](images/GITHUB%20LOGO.jpg){width="550"}
+
+**This lesson will go over the steps necessary to create a GitHub account**
+
+### [What is github](https://skepfoundation.github.io/pages_course/lessons/unit_01/lesson_01/lesson_01.html)
+
+*GitHub is a site that will host repositories to code for free.*
+
+### [Create github username, profile picture](https://skepfoundation.github.io/pages_course/lessons/unit_01/lesson_01/lesson_01.html#step-02-enter-email-address-password-and-username)
+
+*Enter a valid email address that you have immediate access to.*
+
+### [Final Setup](https://skepfoundation.github.io/pages_course/lessons/unit_01/lesson_01/lesson_01.html#step-04-final-setup)
+
+A new webpage will appear asking you some questions.
+
+### [Edit Profile Picture](https://skepfoundation.github.io/pages_course/lessons/unit_01/lesson_01/lesson_01.html#step-05-edit-profile-picture)
+
+To edit your profile picture, do the following while in your github dashboard
+
+### [Practice Activity](https://skepfoundation.github.io/pages_course/lessons/unit_01/lesson_01/lesson_01.html#practice-activity)
+
+## ✅ Lesson 2: Writing a GitHub Profile Page
+
+![](images/pppp.png){width="550"}
+
+#### This lesson will be but a brief introduction of markdown.
+
+### [What is the role of github profile readme?](https://skepfoundation.github.io/pages_course/lessons/unit_01/lesson_02/lesson_02.html)
+
+*The GitHub profile README serves as a distinctive profile page showcasing who you are and what you do.*
+
+### [Markdown](https://skepfoundation.github.io/pages_course/lessons/unit_01/lesson_02/lesson_02.html#overview)
+
+*Markdown is a lightweight and easy-to-use syntax for styling all forms of writing on the web.*
+
+### [Begin Creating a GitHub Profile README](https://skepfoundation.github.io/pages_course/lessons/unit_01/lesson_02/lesson_02.html#lets-begin-creating-a-github-profile-readme)
+
+*Click on + icon at top right of the page and select New Repository.*
+
+### [Standard template for everyone for basic readme by the end of the lesson](https://skepfoundation.github.io/pages_course/lessons/unit_01/lesson_02/lesson_02.html#profile-readme-template)
+
+## ✅ Lesson 3: Writing in Markdown
+
+![](images/mark.png){width="550"}
+
+**you will learn the basics of Markdown, a lightweight markup language that is widely used for formatting plain text**
+
+### [Markdown](https://skepfoundation.github.io/pages_course/lessons/unit_01/lesson_03/lesson_03.html#overview)
+
+*a lightweight markup language that is widely used for formatting plain text.*
+
+### [Why Markdown Matters ?](https://skepfoundation.github.io/pages_course/lessons/unit_01/lesson_03/lesson_03.html#why-markdown-matters)
+
+*It is used to create websites, documents, notes, presentations and technical documentation.*
+
+### [Emphasizing text in Markdown](https://skepfoundation.github.io/pages_course/lessons/unit_01/lesson_03/lesson_03.html#emphasizing-text-in-markdown)
+
+*In Markdown, the use of asterisks (\*) or underscores (\_) allows you to emphasize text by making it either italic or bold.*
+
+### [Headings in Markdown](https://skepfoundation.github.io/pages_course/lessons/unit_01/lesson_03/lesson_03.html#headings-in-markdown)
+
+*Headings are created using hash (#) symbols.*
+
+### [Lists in Markdown](https://skepfoundation.github.io/pages_course/lessons/unit_01/lesson_03/lesson_03.html#lists-in-markdown)
+
+*You can create both unordered lists (bullet points) and ordered lists (numbered items)*
+
+### [Code blocks in Markdown](https://skepfoundation.github.io/pages_course/lessons/unit_01/lesson_03/lesson_03.html#code-blocks-in-markdown)
+
+*To indicate code blocks, use three backticks before and after the block of code.*
+
+### [Practice Activity](https://skepfoundation.github.io/pages_course/lessons/unit_01/lesson_03/lesson_03.html#task-1)
+
+## ✅ Lesson 4: Improving GitHub Profile ReadME
+
+![](images/read%20profile-2.gif){width="550"}
+
+**know what to include on your github profile readme. All these are ideas. Use this code as needed in your profile.** 
+
+### [Basic Markdown For Github Profile README](https://skepfoundation.github.io/pages_course/lessons/unit_01/lesson_04/lesson_04.html#basic-markdown-for-github-profile-readme)
+
+*Baisc Text Formatting(Bold, Italics and Lists) in Markdown*
+
+### [Tools And Links](https://skepfoundation.github.io/pages_course/lessons/unit_01/lesson_04/lesson_04.html#tools-and-links)
+
+ *lis of tools and links which we will make use of in this Lesson to enhance our Github Profile Readme.* 
+
+### [Enhancing Your Github Profile README](https://skepfoundation.github.io/pages_course/lessons/unit_01/lesson_04/lesson_04.html#enhancing-your-github-profile-readme)
+
+*To create an impactful GitHub profile README, focus on an engaging presentation of your skills and projects.*
+
+### [Adding Logos (Software, Lanugages, Companies…)](https://skepfoundation.github.io/pages_course/lessons/unit_01/lesson_04/lesson_04.html#adding-logos-software-lanugages-companies)
+
+*add images representing the technologies and skills you are familiar with.* 
+
+### [Adding Social Links to Your Github Profile README](https://skepfoundation.github.io/pages_course/lessons/unit_01/lesson_04/lesson_04.html#adding-social-links-to-your-github-profile-readme)
+
+### [Adding GIFS to Your Github Profile README](https://skepfoundation.github.io/pages_course/lessons/unit_01/lesson_04/lesson_04.html#adding-social-links-to-your-github-profile-readme)
+
+ *we will be adding social network badges to your github profile readme.*
+
+### [Adding Github Profile Summary Stats Widgets](https://skepfoundation.github.io/pages_course/lessons/unit_01/lesson_04/lesson_04.html#adding-github-profile-summary-stats-widgets)
+
+### [Practice Activity](https://skepfoundation.github.io/pages_course/lessons/unit_01/lesson_04/lesson_04.html#hands-on-practice-activity)
+
+## ✅Lesson 5: Organizing projects in a GitHub Repo
+
+![](images/repo.png){width="550"}
+
+### [What is a Github Repository and What Makes It Special?](https://skepfoundation.github.io/pages_course/lessons/unit_01/lesson_05/lesson_05.html#what-is-a-github-repository-and-what-makes-it-special)
+
+*it stores all the digital “tools” you will use to build projects, like code, instructions, and notes.*
+
+### [Principles of Organizing a GitHub Repository](https://skepfoundation.github.io/pages_course/lessons/unit_01/lesson_05/lesson_05.html#principles-of-organizing-a-github-repository.)
+
+*.will not focus on specific types of projects rather we will focus on general principles that should guide you regardless of what type of project you are embarking on.*
+
+### [Additional Tips](https://skepfoundation.github.io/pages_course/lessons/unit_01/lesson_05/lesson_05.html#additional-tips)
+
+*Keep your repositories updated with new commits and improvements*
+
+### [Practice Activity](https://skepfoundation.github.io/pages_course/lessons/unit_01/lesson_05/lesson_05.html#practice-activity)
+
+### [FAQ](https://skepfoundation.github.io/pages_course/lessons/unit_01/lesson_05/lesson_05.html#faq)
+
+# Unit 2 - Git and VSCode
+
+**This unit will introduce students to git and VSCode. Git will be taught as a command line tool rather than VSCode’s “Source Control” option. Basic git commands will be taught like add, commit, push, and pull. Students will be set up to continue to edit their github profile readme in VSCode after setting up the repo locally.**
+
+## ✅ Lesson 1: Intro to VS Code
+
+![](images/vs%20logo.png){width="550"}
+
+### [What is Visual Studio Code ?](https://skepfoundation.github.io/pages_course/lessons/unit_02/lesson_01/lesson_01.html#what-is-visual-studio-code)
+
+*Visual Studio Code is a Integrated Development Environment (IDE) developed by Microsoft for Windows, Linux and macOS.*
+
+[*- Syntax Highlighting*](https://skepfoundation.github.io/pages_course/lessons/unit_02/lesson_01/lesson_01.html#:~:text=different%20programming%20languages.-,Syntax%20Highlighting,-To%20improve%20readability)
+
+[*-Error Highlighting*](https://skepfoundation.github.io/pages_course/lessons/unit_02/lesson_01/lesson_01.html#error-highlighting)
+
+[*-Intelligent Code Completion*](https://skepfoundation.github.io/pages_course/lessons/unit_02/lesson_01/lesson_01.html#intelligent-code-completion)
+
+[*-Code Refactoring -Snippets*](https://skepfoundation.github.io/pages_course/lessons/unit_02/lesson_01/lesson_01.html#code-refactoring)
+
+[*-Git*](https://skepfoundation.github.io/pages_course/lessons/unit_02/lesson_01/lesson_01.html#git)
+
+### [Practice Activity](https://skepfoundation.github.io/pages_course/lessons/unit_02/lesson_01/lesson_01.html#:~:text=rapid%20software%20development.-,Practice%20Activity,-Download%20and%20Install)
+
+[*-For Windows PC*](https://skepfoundation.github.io/pages_course/lessons/unit_02/lesson_01/lesson_01.html#for-windows-pc)
+
+[*-For Mac OS*](https://skepfoundation.github.io/pages_course/lessons/unit_02/lesson_01/lesson_01.html#for-mac-os)
+
+### [Install VS Code’s Python Extension](https://skepfoundation.github.io/pages_course/lessons/unit_02/lesson_01/lesson_01.html#snippets:~:text=action.%20Click%20Open-,Install%20VS%20Code%E2%80%99s%20Python%20Extension,-This%20is%20an)
+
+## ✅ Lesson 2: Introduction to Quarto
+
+![](images/quarto.png){width="550"}
+
+### [A Quarto Overview](https://skepfoundation.github.io/pages_course/lessons/unit_02/lesson_02/lesson_02.html#a-quarto-overview)
+
+*Quarto is a dynamic open-source publishing system made to simplify the process of creating easily reproducible reports, articles, research,HTML, and other print and non-print documents.*
+
+### [Find and Download Quarto](https://skepfoundation.github.io/pages_course/lessons/unit_02/lesson_02/lesson_02.html#step-01-find-and-download-quarto)
+
+*Quarto Download Page Install Quarto (For Windows) Click on the downloaded msi file. The setup wizard will start.*
+
+### [Enable Quarto Extension in VScode](https://skepfoundation.github.io/pages_course/lessons/unit_02/lesson_02/lesson_02.html#step-3-enable-quarto-extension-in-vscode)
+
+*Open vscode and click on the Extensions widget on the left panel of vscode.*
+
+### [Rendering/Previewing Quarto files](https://skepfoundation.github.io/pages_course/lessons/unit_02/lesson_02/lesson_02.html#step-4-renderingpreviewing-quarto-files)
+
+*Create a quarto file by clicking the file at the top-left in vscode and then selecting New File.. from the drop-down.*
+
+### [Practice Activity](https://skepfoundation.github.io/pages_course/lessons/unit_02/lesson_02/lesson_02.html#practice-activity)
+
+#### [-Installing Quarto - Video Walkthrough (For MacOS Users)](https://skepfoundation.github.io/pages_course/lessons/unit_02/lesson_02/lesson_02.html#installing-quarto---video-walkthrough-for-macos-users)
+
+### [FAQ](https://skepfoundation.github.io/pages_course/lessons/unit_02/lesson_02/lesson_02.html#faq)
+
+## ✅ Lesson 3:**Git and How to connect to VScode**
+
+![](images/git.jpg){width="550"}
+
+### [**Introduction to Git**](https://skepfoundation.github.io/pages_course/lessons/unit_02/lesson_03/lesson_03.html#branch:~:text=Git%20within%20VScode.-,Introduction%20to%20Git,-Git%20is%20a)
+
+*Git is a powerful and widely used version control system that allows developers to track changes in their code over time.* 
+
+### [Why Use Git?](https://skepfoundation.github.io/pages_course/lessons/unit_02/lesson_03/lesson_03.html#why-use-git)
+
+*collaboration, History Tracking*
+
+### [**Working with Git**](https://skepfoundation.github.io/pages_course/lessons/unit_02/lesson_03/lesson_03.html#working-with-git)
+
+*Git’s functionality is accessible primarily through the command line.*
+
+### [**How to Install Git**](https://skepfoundation.github.io/pages_course/lessons/unit_02/lesson_03/lesson_03.html#branch:~:text=git%20push%20changes-,How%20to%20Install%20Git,-Installing%20Git%20is)
+
+[*-For Windows Users*](https://skepfoundation.github.io/pages_course/lessons/unit_02/lesson_03/lesson_03.html#for-windows-users)
+
+[*-For MacOS Users*](https://skepfoundation.github.io/pages_course/lessons/unit_02/lesson_03/lesson_03.html#for-macos-users)
+
+[*- For Linux Users*](https://skepfoundation.github.io/pages_course/lessons/unit_02/lesson_03/lesson_03.html#for-linux-users)
+
+### [**Basic Concepts of Git**](https://skepfoundation.github.io/pages_course/lessons/unit_02/lesson_03/lesson_03.html#branch:~:text=Repository%20(Local%20and%20Remote))
+
+[*-Repository (Local and Remote*](https://skepfoundation.github.io/pages_course/lessons/unit_02/lesson_03/lesson_03.html#branch:~:text=Repository%20(Local%20and%20Remote))
+
+[*-Commit/Push*](https://skepfoundation.github.io/pages_course/lessons/unit_02/lesson_03/lesson_03.html#branch:~:text=2.-,Commit/Push,-Definition%3A%20A)
+
+[*-Branch*](https://skepfoundation.github.io/pages_course/lessons/unit_02/lesson_03/lesson_03.html#branch:~:text=3.-,Branch,-Command%20Line)
+
+[*-Merge*](https://skepfoundation.github.io/pages_course/lessons/unit_02/lesson_03/lesson_03.html#merge)
+
+[*-Pull Request*](https://skepfoundation.github.io/pages_course/lessons/unit_02/lesson_03/lesson_03.html#pull-request)
+
+### [**Git with VSCode**](https://skepfoundation.github.io/pages_course/lessons/unit_02/lesson_03/lesson_03.html#branch:~:text=the%20main%20branch.-,Git%20with%20VSCode%3A,-Why%20should%20we)
+
+*Integrated development environment, Streamlined workflow.*
+
+### [**Connecting Git to Visual Studio Code (VSCode**](https://skepfoundation.github.io/pages_course/lessons/unit_02/lesson_03/lesson_03.html#connecting-git-to-visual-studio-code-vscode)
+
+*Visual Studio Code is a popular, lightweight, and powerful source code editor that supports multiple programming languages and tools.*
+
+### [**Accessing Git**](https://skepfoundation.github.io/pages_course/lessons/unit_02/lesson_03/lesson_03.html#accessing-git)
+
+*On the left sidebar, click on the Source Control icon. If Git is installed, VSCode will automatically detect* 
+
+### [**Practice Activity**](https://skepfoundation.github.io/pages_course/lessons/unit_02/lesson_03/lesson_03.html#branch:~:text=in%20this%20lesson.-,Practice%20Activity,-1.%20Git%20Simulation)
+
+# Unit 3 - Using Quatro to Develop a Website
+
+**Learn to create a personalized website using Quarto.** 
+
+## ✅ **Lesson 1: Creating Your First Website with Quarto**
+
+![](images/web%20quatro.png){width="550"}
+
+### [**Why Quarto for Creating Websites?**](https://skepfoundation.github.io/pages_course/lessons/unit_03/lesson_01/lesson_01.html#why-quarto-for-creating-websites)
+
+*Reproducibility, Flexibility with Markdown and Code, Effortless Document Structuring*
+
+### [**Getting started with building your first website**](https://skepfoundation.github.io/pages_course/lessons/unit_03/lesson_01/lesson_01.html#getting-started-with-building-your-first-website)
+
+### [**Practice Activity**](https://skepfoundation.github.io/pages_course/lessons/unit_03/lesson_01/lesson_01.html#:~:text=Adding%20Pages-,Practice%20Activity,-Add%20New%20Page)
+
+## ✅ **Lesson 2: Hosting Your Website On Github**
+
+![](images/github%20pages.jpg){width="550"}
+
+### [**links**](https://skepfoundation.github.io/pages_course/lessons/unit_03/lesson_02/lesson_02.html#links)
+
+### [**Lesson**](https://skepfoundation.github.io/pages_course/lessons/unit_03/lesson_02/lesson_02.html#lesson)
+
+*Hosting on GitHub typically refers to using GitHub Pages*
+
+### [**Let begin**](https://skepfoundation.github.io/pages_course/lessons/unit_03/lesson_02/lesson_02.html#let-begin)
+
+### [FAQ](https://skepfoundation.github.io/pages_course/lessons/unit_03/lesson_02/lesson_02.html#faq)
+
+## ✅**Lesson 3: Subpages and Nav Bars**
+
+![](images/NAV.jpg){width="550"}
+
+### [**Lesson**](https://skepfoundation.github.io/pages_course/lessons/unit_03/lesson_03/lesson_03.html#lesson)
+
+*Having multiple pages and a way to navigate them allows the developer to separate content and ideas.* 
+
+### [**Creating a New Page**](https://skepfoundation.github.io/pages_course/lessons/unit_03/lesson_03/lesson_03.html#creating-a-new-page)
+
+*Step one is to create a new .qmd document that will become our new page.* 
+
+### [**Linking the New Page to the YAML**](https://skepfoundation.github.io/pages_course/lessons/unit_03/lesson_03/lesson_03.html#linking-the-new-page-to-the-yaml)
+
+### [**Formatting**](https://skepfoundation.github.io/pages_course/lessons/unit_03/lesson_03/lesson_03.html#formatting)
+
+### [**Practice Activity**](https://skepfoundation.github.io/pages_course/lessons/unit_03/lesson_03/lesson_03.html#practice-activity)
+
+### [**Conclusion**](https://skepfoundation.github.io/pages_course/lessons/unit_03/lesson_03/lesson_03.html#conclusion)
+
+# Bonus Lessons
+
+## 🔴Bonus Lesson : **CSS Selectors Table**
+
+### [**Lesson**](https://skepfoundation.github.io/pages_course/lessons/unit_bonus/css/customizing_css.html#lesson)
+
+### [**HTML (HyperText Markup Language)**](https://skepfoundation.github.io/pages_course/lessons/unit_bonus/css/customizing_css.html#html-hypertext-markup-language)
+
+*Think of HTML as the skeleton of a website.* 
+
+### [**CSS (Cascading Style Sheets)**](https://skepfoundation.github.io/pages_course/lessons/unit_bonus/css/customizing_css.html#css-cascading-style-sheets)
+
+ *It decides how things look, like the colors, fonts, spacing, and layout.*
+
+### [**JavaScript**](https://skepfoundation.github.io/pages_course/lessons/unit_bonus/css/customizing_css.html#javascript)
+
+*JavaScript is like the brain of a website.* 
+
+### [**CSS Cascades**](https://skepfoundation.github.io/pages_course/lessons/unit_bonus/css/customizing_css.html#css-cascades)
+
+*CSS stands for “Cascading Styling Sheets”, what does this mean?*
+
+### [**How to Use CSS in Quarto**](https://skepfoundation.github.io/pages_course/lessons/unit_bonus/css/customizing_css.html#how-to-use-css-in-quarto)
+
+*There are three standard ways to write CSS: inline, embedded in head tag, and external.* 
+
+### [**CSS Selectors**](https://skepfoundation.github.io/pages_course/lessons/unit_bonus/css/customizing_css.html#css-selectors)
+
+*CSS Selectors are like special tools that let you point and say, “Hey, you in a blue shirt and red hat, I want you to do THIS!”.*
+
+### [**CSS Properties and Values**](https://skepfoundation.github.io/pages_course/lessons/unit_bonus/css/customizing_css.html#css-properties-and-values)
+
+*Text styling is one of the fundamental aspects of web design.* 
+
+### [**Styling Background**](https://skepfoundation.github.io/pages_course/lessons/unit_bonus/css/customizing_css.html#styling-background)
+
+*In this section we will explore how to add colors, images and control their positioning to create visually stunning and engaging layout.*
+
+### [**Practice Activity: Stylish Web Page Creation**](https://skepfoundation.github.io/pages_course/lessons/unit_bonus/css/customizing_css.html#practice-activity-stylish-web-page-creation)
+
+### [**Conclusion**](https://skepfoundation.github.io/pages_course/lessons/unit_bonus/css/customizing_css.html#conclusion)
+
+### [**Image References**](https://skepfoundation.github.io/pages_course/lessons/unit_bonus/css/customizing_css.html#image-references)
+
+###
